@@ -1,1 +1,1 @@
-export { ButtonComponent } from "./button";   
+export * from "./button/button.module";
